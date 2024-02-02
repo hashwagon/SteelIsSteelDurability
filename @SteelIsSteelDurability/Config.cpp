@@ -9,9 +9,6 @@ class CfgPatches
 		{
 			"DZ_Gear_Tools",
 			"DZ_Weapons_Melee_Blade"
-			"DZ_Weapons_Muzzles"
-			"DZ_Pistols"
-			"DZ_Weapons_Firearms"
 		};
 	};
 };
@@ -375,7 +372,7 @@ class CfgVehicles
 		};
 	};
 
-	class AK_Suppressor: Inventory_Base
+	class StandardizedSuppressor: Inventory_Base
 	{
 		scope=2;
 		class DamageSystem
@@ -390,7 +387,7 @@ class CfgVehicles
 		};
 	}:
 
-	class M4_Suppressor: Inventory_Base
+	class NormalizedSuppressor: Inventory_Base
 	{
 		scope=2;
 		class DamageSystem
@@ -404,9 +401,5 @@ class CfgVehicles
 			};
 		};
 	}:
-/*
-M4_Suppressor
-AK_Suppressor
- */
 };
 

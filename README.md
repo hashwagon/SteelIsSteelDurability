@@ -1,2 +1,4 @@
-# Haywards_Stronger_Tools
- Increases the Vanilla DayZ Tools durability by upto 9x
+# SteelIsSteelDurability
+Forked from [HaywardsStrongerTools](https://github.com/haywardgg/HaywardsStrongerTools).
+
+This mod increases the durability of steel tools and suppressors (and eventually firearms) in Dayz.
