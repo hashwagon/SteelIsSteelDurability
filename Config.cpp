@@ -8,9 +8,9 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"DZ_Gear_Tools",
-			"DZ_Weapons_Melee_Blade"
-			"DZ_Weapons_Muzzles"
-			"DZ_Pistols"
+			"DZ_Weapons_Melee_Blade",
+			"DZ_Weapons_Muzzles",
+			"DZ_Pistols",
 			"DZ_Weapons_Firearms"
 		};
 	};
@@ -404,9 +404,5 @@ class CfgVehicles
 			};
 		};
 	}:
-/*
-M4_Suppressor
-AK_Suppressor
- */
 };
 
