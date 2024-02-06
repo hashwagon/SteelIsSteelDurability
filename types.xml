@@ -313,7 +313,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>9800</lifetime>
         <restock>1800</restock>
         <min>1</min>
