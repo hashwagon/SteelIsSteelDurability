@@ -369,7 +369,7 @@ class CfgVehicles
 			{
 				class Health
 				{
-					hitpoints=5000;
+					hitpoints=100;
 				};
 			};
 		};
@@ -384,11 +384,11 @@ class CfgVehicles
 			{
 				class Health
 				{
-					hitpoints=5000;
+					hitpoints=100;
 				};
 			};
 		};
-	}:
+	};
 
 	class M4_Suppressor: Inventory_Base
 	{
@@ -399,10 +399,10 @@ class CfgVehicles
 			{
 				class Health
 				{
-					hitpoints=5000;
+					hitpoints=100;
 				};
 			};
 		};
-	}:
+	};
 };
 
